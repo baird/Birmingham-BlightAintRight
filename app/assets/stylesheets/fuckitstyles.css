@@ -10,9 +10,13 @@ h3 {
 }
 
 
+.BlightSec {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
 .header-img {
   display: block;
-  margin: 0;
+  margin: 0, auto;
 }
 .btn-primary {
   color: #fff;
@@ -24,4 +28,19 @@ h3 {
   color: #fff;
   background-color: #22a7f0;
   border-color: #22a7f0;
+}
+
+.address {
+  background-color: #87D37C;
+  color: #fff;
+}
+
+
+.submit {
+  margin: 0, auto;
+}
+
+#PropDeets {
+  background-color: #90c695;
+  color: #fff;
 }
